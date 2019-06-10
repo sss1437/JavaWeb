@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<contact-list>
+
+    <contact id="001">
+        <name>张三</name>
+        <gender>男</gender>
+        <phone>12344678789</phone>
+        <emile>2432536@qq.com</emile>
+        <address>西安</address>
+    </contact>
+
+    <contact id="002">
+        <name>李四</name>
+        <gender>女</gender>
+        <phone>12344678789</phone>
+        <emile>8432536@qq.com</emile>
+        <address>临潼</address>
+    </contact>
+    <student>student</student>
+
+</contact-list>
